@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Abolfazl Madani 👋
 
-<!--
-**abolfazlmadanii/abolfazlmadanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data engineer working on **streaming data modeling**: how to model events, state, and time in Apache Flink and Kafka so results stay correct under late data, replays, and failures.
 
-Here are some ideas to get you started:
+**Now building**
+- [**stream-patterns**](https://github.com/abolfazlmadanii/stream-patterns): a catalog of streaming data modeling patterns. Each pattern will ship with a reference model, a Flink SQL implementation, and tests. *(in progress)*
+- [**streamproof**](https://github.com/abolfazlmadanii/streamproof): a correctness test harness for Flink jobs, using seeded chaotic input, fault injection, and an oracle comparison. *(in progress)*
+- [**helion**](https://github.com/abolfazlmadanii/helion): streaming operators with proven error bounds (Count-Min, Space-Saving, pane windows) for Flink and Kafka Streams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Upstream**
+- Apache SeaTunnel: [#11817](https://github.com/apache/seatunnel/pull/11817), declarative option validation for the Email connector (merged).
+
+**Also**
+- [metabase-jalali](https://github.com/abolfazlmadanii/metabase-jalali) and [dimension_date](https://github.com/abolfazlmadanii/dimension_date): Persian (Jalali) calendar support for BI tools.
+
+**Stack:** Java · Apache Flink · Kafka · Iceberg · SQL · Python
+
+📫 [LinkedIn](https://www.linkedin.com/in/abmadani/)
