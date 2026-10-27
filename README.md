@@ -13,6 +13,6 @@ Data engineer working on **streaming data modeling**: how to model events, state
 **Also**
 - [metabase-jalali](https://github.com/abolfazlmadanii/metabase-jalali) and [dimension_date](https://github.com/abolfazlmadanii/dimension_date): Persian (Jalali) calendar support for BI tools.
 
-**Stack:** Java · Apache Flink · Kafka · Iceberg · SQL · Python
+**Stack:**  Apache Flink · Kafka · Iceberg · SQL · Python
 
 📫 [LinkedIn](https://www.linkedin.com/in/abmadani/)
